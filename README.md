@@ -1,4 +1,4 @@
 # LinuxScripts
-Scripts tested in UB2204 from October 2024
+Scripts tested in UB2204
 
 ## Added some dummy scripts
